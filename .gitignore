@@ -1,1 +1,2 @@
-ide-config.js
+ide-config*
+/config/
